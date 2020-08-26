@@ -5,9 +5,9 @@
   <p align="center">
     A installer built in delphi to install OpenCV component in your Delphi
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/uelpin/delphi-opencv-installer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/uelpin/delphi-opencv-installer/issues">Request Feature</a>
   </p>
 </p>
 
