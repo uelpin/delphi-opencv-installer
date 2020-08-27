@@ -54,7 +54,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Uelbert Pinheiro - uelbert.pinheiro@gmail.com
+Uelberte Pinheiro - uelberte.pinheiro@gmail.com
 
 Project Link: [https://github.com/uelpin/delphi-opencv-installer](https://github.com/uelpin/delphi-opencv-installer)
 
